@@ -13,3 +13,4 @@ using EventListner and Dom only to  do this Site
 
 You can visit mywebsite Through this link https://mariaa98.github.io/Drum-Kit-Website/
 
+You Can Use Your buttons or click by mouse 😉
